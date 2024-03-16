@@ -247,34 +247,12 @@ def get_message_type(msg: pyrogram.types.messages_and_media.message.Message):
 	except: pass
 
 
-USAGE = """**FOR PUBLIC CHATS**
+USAGE = """**🇮🇳 𝐇𝐨𝐰 𝐓𝐨 𝐮𝐬𝐞 𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 🇮🇳**
 
-**__just send post/s link__**
 
-**FOR PRIVATE CHATS**
+➠ 𝐒𝐞𝐧𝐝 𝐦𝐞 𝐓𝐡𝐞 𝐋𝐢𝐧𝐤 𝐨𝐟 𝐚𝐧𝐲 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐨𝐟 𝐑𝐞𝐬𝐭𝐫𝐢𝐜𝐭𝐞𝐝 𝐂𝐡𝐚𝐧𝐧𝐞𝐥𝐬 𝐓𝐨 𝐂𝐥𝐨𝐧𝐞 𝐢𝐭 𝐇𝐞𝐫𝐞.
 
-**__first send invite link of the chat (unnecessary if the account of string session already member of the chat)
-then send post/s link__**
-
-**FOR BOT CHATS**
-
-**__send link with** '/b/', **bot's username and message id, you might want to install some unofficial client to get the id like below__**
-
-```
-https://t.me/b/botusername/4321
-```
-
-**MULTI POSTS**
-
-**__send public/private posts link as explained above with formate "from - to" to send multiple messages like below__**
-
-```
-https://t.me/xxxx/1001-1010
-
-https://t.me/c/xxxx/101 - 120
-```
-
-**__note that space in between doesn't matter__**
+➠ 𝐅𝐨𝐫 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥'𝐬 𝐌𝐞𝐬𝐬𝐚𝐠𝐞𝐬,𝐒𝐞𝐧𝐝 𝐓𝐡𝐞 𝐢𝐧𝐯𝐢𝐭𝐞 𝐋𝐢𝐧𝐤 𝐅𝐢𝐫𝐬𝐭.
 """
 
 
